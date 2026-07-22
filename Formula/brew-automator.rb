@@ -1,8 +1,8 @@
 class BrewAutomator < Formula
   desc "Homebrew maintenance automation with SMTP email reports"
   homepage "https://github.com/xtruhlar/brew-automator"
-  url "https://github.com/xtruhlar/brew-automator/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "482783b495cd335d3c0a02884c6104f3af495900885381dc3bd1fe8734d20df2"
+  url "https://github.com/xtruhlar/brew-automator/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "5d04b13d0608f379aaa18a5a2bfebc5dd7f16620e7805055e172e4335a31f457"
   license "MIT"
 
   depends_on "python@3.12"
